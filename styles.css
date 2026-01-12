@@ -121,3 +121,27 @@ button{
     font-weight: bold;
     align-self: flex-end;
 }
+
+/* call to action */
+
+.cta {
+    padding: 55px 88px;
+}
+.ctabox {
+    background-color: #3882F6;
+    border-radius: 5px;
+    color:#f9FAF8;
+    display: flex;
+    padding: 22px;
+    justify-content: space-around;
+}
+
+.ctabutton{
+    background-color: #3882F6;
+    color:#f9FAF8;
+    padding: 5px 20px;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #f9FAF8;
+}
+
