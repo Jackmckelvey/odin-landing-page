@@ -74,6 +74,7 @@ button{
     color:#1f2937;
     font-weight: 900;
     text-align: center;
+    margin: 50px;
 }
 
 .boxes{
@@ -81,7 +82,9 @@ button{
     font-size: 18px;
     display: flex;
     justify-content: center;
-    margin: 20px 50px 200px 200px;
+    margin: 20px 50px 100px 100px;
+    gap: 40px;
+    justify-content: center;
 }
 
 .box{
@@ -92,3 +95,29 @@ button{
     border-radius: 10px;
 }
 
+
+.info{
+    margin: 50px;
+    text-align: center;
+}
+
+/* quote */
+
+.quote{
+    background-color: #e5e7eb;
+    padding: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.qp{
+    font-size: 36px;
+    font-weight: 300px;
+    color:#1f2937
+}
+
+.qn{
+    color: #1f2937;
+    font-weight: bold;
+    align-self: flex-end;
+}
