@@ -67,3 +67,28 @@ button{
     border: none;
 }
 
+/* info section */
+
+.h2{
+    font-size: 36px;
+    color:#1f2937;
+    font-weight: 900;
+    text-align: center;
+}
+
+.boxes{
+    color: #1f2937;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    margin: 20px 50px 200px 200px;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    border: 3px solid;
+    border-color: #3882F6;
+    border-radius: 10px;
+}
+
