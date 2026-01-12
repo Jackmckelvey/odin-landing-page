@@ -132,7 +132,7 @@ button{
     border-radius: 5px;
     color:#f9FAF8;
     display: flex;
-    padding: 22px;
+    padding: 30px;
     justify-content: space-around;
 }
 
@@ -145,3 +145,12 @@ button{
     border-color: #f9FAF8;
 }
 
+/* footer */
+
+.footer {
+    background-color: #1f2937;
+    color: #b3b3b3;
+    padding: 25px 10px;
+    text-align: center;
+    font-size: 15px;
+}
